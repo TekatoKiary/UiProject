@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8366536873088707177}
   - component: {fileID: 652589917401426673}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: HitEffect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -56,7 +56,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4963438282067638174}
   - component: {fileID: 6296646753698004147}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Animated
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,7 +111,7 @@ GameObject:
   - component: {fileID: 9042609161447763964}
   - component: {fileID: 3253927737558842125}
   - component: {fileID: 1907848490606211108}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 4756572363663666473}
   - component: {fileID: 1521542145394170481}
   - component: {fileID: 6358773269690625298}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PointText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
